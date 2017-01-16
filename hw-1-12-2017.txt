@@ -24,3 +24,8 @@ Exercise 4: Exploring More ls Arguments
 Question - What does the command ls do when used with the -l and -h arguments?
 
 Answer - -l stands for a long listing format and is an argument that lists a lot of information about the file within the folder, -h stand for "human readable" and is an argument that makes the information easy to read and puts information into layman terms. 
+
+Exercise 5: Listing Recursively and By Time
+Question - In what order does ls -R -t display things?
+
+Answer - The directories are listed in alphabetical order; however, the files within the directory are organized based on the time of last change. 
