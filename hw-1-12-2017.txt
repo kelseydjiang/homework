@@ -1,0 +1,6 @@
+Exercise 1: Absolute vs Relative Paths
+
+Question - Starting from /Users/amanda/data/, which of the following commands could Amanda use to navigate to her home directory, which is...
+
+Answer - 5, 7, 8, & 9 are all correct
+5 and 8 would both navigate to the user's home directory, 9 goes back up one level at a time, and 7 is a more complex line of code to navigate to the home directory. 
