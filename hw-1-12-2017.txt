@@ -4,3 +4,10 @@ Question - Starting from /Users/amanda/data/, which of the following commands co
 
 Answer - 5, 7, 8, & 9 are all correct
 5 and 8 would both navigate to the user's home directory, 9 goes back up one level at a time, and 7 is a more complex line of code to navigate to the home directory. 
+
+Exercise 2: Relative Path Resolution
+
+Question - Using the filesystem diagram below, if pwd dispalys /Users/thing, what will ls ../backup display?
+
+Answer - 4. original, pnas_final, pnas_sub
+The ls will display all the files in the backup folder.
