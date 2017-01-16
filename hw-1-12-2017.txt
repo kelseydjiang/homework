@@ -11,3 +11,10 @@ Question - Using the filesystem diagram below, if pwd dispalys /Users/thing, wha
 
 Answer - 4. original, pnas_final, pnas_sub
 The ls will display all the files in the backup folder.
+
+Exercise 3: ls Reading Comprehension
+
+Question - Assuming a directory structure as in the above Figure (File System for Challenge Questions), if pwd Displays /User/backup, and -r tells ls to display things in reverse order, what command will display:
+
+Answer - 2 ls -r -F, 3 ls -r -F /Users/backup, & 4 Either #2 or #3 above, but not #1
+2 is a generally display order while 3 is a more explicit command.
