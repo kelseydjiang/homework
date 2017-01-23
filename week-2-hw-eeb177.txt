@@ -59,4 +59,6 @@ Question 3
   521  ls
   522  history | tail -50 >> week-2-hw-eeb177.txt
 
-
+Question 4: 
+10th Largest = 22999999.91
+10th Smallest = 2.51
