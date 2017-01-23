@@ -1,0 +1,4 @@
+Week 2 Homework:
+
+Question 1
+Revisit the Pacifici2013_data.csv and show the order of the first 5 species in the data set.
