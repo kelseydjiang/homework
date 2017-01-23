@@ -7,4 +7,56 @@ Rodentia, Rodentia, Rodentia, Macroscelidea, Rodentia
 Question 2
 There are 153 unique families. 
 
+Question 3
+  473  ls
+  474  cp Pacifici2013_data.csv /../sandbox
+  475  cp Pacifici2013_data.csv / cd ../sanbox
+  476  cp Pacifici2013_data.csv /unix/sandbox
+  477  cp Pacifici2013_data.csv /Desktop/eeb-177/CSB/CSB/unix/sandbox
+  478  cp Pacifici2013_data.csv 
+  479  cp --help
+  480  cp Pacifici2013_data.csv /~Desktop/eeb-177/CSB/CSB/unix/sandbox
+  481  cp Pacifici2013_data.csv sandbox
+  482  cd ..
+  483  cd sandbox
+  484  ls
+  485  cd ..
+  486  cd data
+  487  ls
+  488  cp Pacifici2013_data.csv /sandbox
+  489  cp Pacifici2013_data.csv /unix/sandbox
+  490  cp Pacifici2013_data.csv sandbox:/
+  491  cd ..
+  492  ls
+  493  cd sanbox
+  494  ls
+  495  cd sandbox
+  496  ls
+  497  cd ..
+  498  cd data
+  499  ls
+  500  cd ..
+  501  cd sanbox
+  502  cd sandbox
+  503  tail -n +2 ../data/Pacifici2013_data.csv
+  504  tail -n +2 ../data/Pacifici2013_data.csv | cut -d ';' -f2-6 | tr -s ';' ' ' | sort -r -n -k 6 > BodyM.csv
+  505  ls
+  506  cat BodyM.csv >> week-2-hw-eeb177.txt
+  507  cd 
+  508  cd Desktop
+  509  cd eeb-177
+  510  cd homework
+  511  gedit week-2-hw-eeb177.txt
+  512  cd ..
+  513  cd CSB
+  514  cd unix
+  515  cd sandbox
+  516  ls
+  517  gedit week-2-hw-eeb177.txt
+  518  cd homework
+  519  cd ..
+  520  cd homework
+  521  ls
+  522  history | tail -50 >> week-2-hw-eeb177.txt
+
 
