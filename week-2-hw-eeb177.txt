@@ -86,3 +86,10 @@ Question 5:
   590  cd ../../../homework
   591  cd ../../../../homework
 
+Question 6:
+Allesina exercise 1.11.1
+-553K
+-16 Contigs are classified as isogroup00036
+-43 unique isogroups
+-Contig00302 had a total of 3330 numreads
+
