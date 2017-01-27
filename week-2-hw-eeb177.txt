@@ -94,6 +94,7 @@ Allesina exercise 1.11.1
 -Contig00302 had a total of 3330 numreads
 
 Question 7:
+Refer to screenshot in github homework repository title "Week 2 Question 7"
 
 Question 8:
 1. grep "of" haiku.txt
