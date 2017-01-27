@@ -88,7 +88,7 @@ Question 5:
 
 Question 6:
 Allesina exercise 1.11.1
--553K
+-566026
 -16 Contigs are classified as isogroup00036
 -43 unique isogroups
 -Contig00302 had a total of 3330 numreads
